@@ -16,3 +16,9 @@ El ciclismo trata de montar en bicicleta y pedalear por senderos de montañas y 
  3. Mantente concentrado en el camino.
  4. Usa el equipo necesario de protección.
  5. Manten en buenas condiciones tu bicicleta.
+
+ ## Consejos
+ - Hidrátate y aliméntate de forma correcta
+ - Escucha a tu cuerpo
+ - No elijas rutas difíciles
+ - Sé prevenido con el clima
