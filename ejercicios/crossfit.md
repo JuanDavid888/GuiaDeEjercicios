@@ -15,3 +15,9 @@ El crossfit es una técnica de entrenamiento que conecta movimientos de diferent
 2. Aprende y perfecciona los ejercicios.
 3. Relaja los músculos trabajados.
 4. Mantén una rutina de entrenamiento.
+
+## Consejos
+- Compite contra ti mismo
+- Mantén una buena alimentación
+- Diviértete
+- Descansa de vez en cuando
