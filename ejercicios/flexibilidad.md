@@ -16,3 +16,8 @@ La flexibilidad es la capacidad de los músculos de adaptarse, mediante su alarg
 3. Mantenga el estiramiento durante 10-30 segundos y repita cada estiramiento 3-5 veces
 4. Intente estirarse más en cada ejercicio
 5. Siempre mantenga ligeramente flexionadas las articulaciones
+
+## Consejos
+- Mantener el movimiento en la rutina
+- Haz un calentamiento adecuado del cuerpo
+- Haz estiramientos específicos
