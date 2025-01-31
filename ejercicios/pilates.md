@@ -13,3 +13,9 @@ Pilates es un conjunto de movimientos controlados para el cuerpo y la mente. Dic
 2. Necesitas contar con una colchoneta para hacer Pilates, pero que sea específica para esta clase de ejercicios.
 3. Empieza con sesiones cortas a diario
 4. Haz 30 minutos en cada sesión.
+
+## Consejos
+- Controla la respiración
+- trata de hacer cada movimiento de la forma adecuada
+- No ingieras ningún alimento antes de comenzar
+- Intenta pasar un buen rato en cada sesión
