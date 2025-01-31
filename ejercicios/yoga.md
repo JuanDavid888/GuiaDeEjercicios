@@ -8,3 +8,9 @@ El yoga es una práctica que conecta el cuerpo, la respiración y la mente. Esta
 - Mejorar su coordinación y equilibrio
 - Ayuda a la digestión
 - Ayuda a reducir el estrés
+
+## Instrucciones
+1. Encuentra un lugar tranquilo y limpio
+2. Siéntate en una posición cómoda, con la espalda recta y las manos apoyadas en las rodillas.
+3. Comienza con algunos ejercicios de calentamiento suaves para preparar los músculos y las articulaciones
+4. Dedica tiempo a la relajación y la meditación
