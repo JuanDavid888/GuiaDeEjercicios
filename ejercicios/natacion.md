@@ -15,3 +15,9 @@ La natación es el arte de sostenerse y avanzar, usando los brazos y las piernas
 3. Calienta antes de empezar a sumergirte
 4. Practica diferentes tipos de natación
 5. Mantén una buena cantidad de aire cuando te sumergas
+
+## Consejos
+- No consumas alimentos dentro del agua
+- Mantente bien hidratado
+- Descansa siempre que sea necesario
+- Controla la ansiedad
