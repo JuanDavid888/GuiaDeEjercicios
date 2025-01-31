@@ -14,3 +14,9 @@ El entrenamiento funcional es un tipo de ejercicio que consiste en imitar los mo
 2. Calienta el cuerpo.
 3. Utiliza movimientos que simulan acciones diarias
 4. ,Mantén una rutina de entrenamiento.
+
+## Consejos
+- Estira bien despues del calientamiento para evitar lesiones.
+- Mantén una buena alimentación.
+- Escucha a tu cuerpo.
+- Incorpora diferentes ejercicios cada vez que mejores.
